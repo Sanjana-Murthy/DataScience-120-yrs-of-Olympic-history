@@ -8,4 +8,4 @@ participation or their performance and results based on basic biological informa
 
 Therefore, we decided to do exploratory data analysis so we may visualize patterns within the
 dataset. Furthermore, we wanted to predict if an athlete would win a medal based on those few
-attributes given
+attributes given.
